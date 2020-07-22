@@ -22,7 +22,7 @@ This project is build using a great technology called as DOCKER with the help of
              
 # LINK FOR THESE TYPE OF IMAGES
 
-Official links for your reference about Docker: https://hub.docker.com/
+Official link for your reference about Docker: https://hub.docker.com/
 
 
 # CONNECT 
